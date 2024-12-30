@@ -1,4 +1,4 @@
-# 👋 About Me  
+# 💻 About Me  
 
 Hi, I'm **Sushant Dhoble**! 👨‍💻 I'm a passionate software developer with a love for coding, problem-solving, and building innovative solutions. My journey in tech began with curiosity and has grown into a career fueled by enthusiasm and continuous learning.  
 
@@ -25,9 +25,6 @@ Hi, I'm **Sushant Dhoble**! 👨‍💻 I'm a passionate software developer with
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 
-
-## Let's Connect
-
 ### Connect with Me:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantdhoble67@gmail.com)
@@ -35,7 +32,7 @@ Hi, I'm **Sushant Dhoble**! 👨‍💻 I'm a passionate software developer with
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushant0607)
 
 ## Contributions
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sushant0607&theme=radical)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushant0607&show_icons=true&theme=radical)
 
 Thanks for stopping by! Keep coding and stay awesome! ✨
