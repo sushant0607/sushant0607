@@ -1,10 +1,16 @@
 # 💻 About Me  
 
-Hi, I'm **Sushant Dhoble**! 👨‍💻 I'm a passionate software developer with a love for coding, problem-solving, and building innovative solutions. My journey in tech began with curiosity and has grown into a career fueled by enthusiasm and continuous learning.  
+Hi, I'm **Sushant Dhoble**! 👨‍💻 I'm a passionate software developer with a love for coding, problem-solving, and building innovative solutions.
+
+🔥 Debugging Motto: "If AI can master Go, it can surely fix my CSS grids."
+
+⚡ Let’s craft something futuristic, functional, and fabulously chaotic. 
 
 ### 🔭 What I’m Working On:
 🌟 Building exciting projects in **full-stack development**.
-🚀 Exploring new tools and frameworks to expand my tech stack.  
+
+🚀 Exploring new tools and frameworks to expand my tech stack.
+
 🛠️ Currently enhancing my skills in **React.Js** and **Backend Development**. 
 
 ### Tech Stack:
@@ -32,7 +38,17 @@ Hi, I'm **Sushant Dhoble**! 👨‍💻 I'm a passionate software developer with
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushant0607)
 
 ## Contributions
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sushant0607&theme=radical)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushant0607&show_icons=true&theme=radical)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushant0607&show_icons=true&count_private=true&hide=prs&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff" alt="Sushant's GitHub Stats" width="500"/>
 
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushant0607&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Sushant's Streak Stats" width="500"/>
+</div>
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=sushant0607&theme=dark&no-frame=true&margin-w=10&margin-h=10" alt="Sushant's Trophies" width="500"/>
+</div>
+
+<br/>
 Thanks for stopping by! Keep coding and stay awesome! ✨
