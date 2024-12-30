@@ -29,7 +29,7 @@ Hi, I'm **Sushant Dhoble**! 👨‍💻 I'm a passionate software developer with
 ## Let's Connect
 
 - [Twitter](https://twitter.com/yourhandle)
-- [LinkedIn](www.linkedin.com/in/sushant0607)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant0607)  
 - [GitHub](https://github.com/sushant0607)
 
 ## Contributions
