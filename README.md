@@ -1,23 +1,12 @@
-# Welcome to Sushant's Tech Wonderland 🚀
+# 👋 About Me  
 
-![Profile Banner](https://example.com/banner.png)
+Hi, I'm **Sushant Dhoble**! 👨‍💻 I'm a passionate software developer with a love for coding, problem-solving, and building innovative solutions. My journey in tech began with curiosity and has grown into a career fueled by enthusiasm and continuous learning.  
 
-## About Me
+### 🔭 What I’m Working On:
+- 🌟 Building exciting projects in **full-stack development**.
+- 🚀 Exploring new tools and frameworks to expand my tech stack.  
+- 🛠️ Currently enhancing my skills in **React.Js** and **Backend Development**. 
 
-Hey there! I'm Sushant, your friendly neighborhood coder. When I'm not busy debugging my code or dreaming about the next big tech breakthrough, you can find me here, in my tech wonderland. 🌐
-
-## What I Do
-
-- **Code Ninja 🥷**: Slashing bugs and writing sleek code.
-- **Tech Enthusiast 💻**: Always on the lookout for the latest in tech.
-- **Open Source Advocate 🌍**: Contributing to the community one commit at a time.
-
-## Fun Facts
-
-- I once debugged a piece of code for 8 hours straight, only to find a missing semicolon. 🤦‍♂️
-- My favorite programming language? Coffee! ☕ (but I also love Python, JavaScript, and C++).
-
-### Tech Stack:
 ### Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -40,7 +29,7 @@ Hey there! I'm Sushant, your friendly neighborhood coder. When I'm not busy debu
 ## Let's Connect
 
 - [Twitter](https://twitter.com/yourhandle)
-- [LinkedIn](https://linkedin.com/in/yourhandle)
+- [LinkedIn](www.linkedin.com/in/sushant0607)
 - [GitHub](https://github.com/sushant0607)
 
 ## Contributions
