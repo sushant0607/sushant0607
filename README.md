@@ -3,9 +3,9 @@
 Hi, I'm **Sushant Dhoble**! 👨‍💻 I'm a passionate software developer with a love for coding, problem-solving, and building innovative solutions. My journey in tech began with curiosity and has grown into a career fueled by enthusiasm and continuous learning.  
 
 ### 🔭 What I’m Working On:
-- 🌟 Building exciting projects in **full-stack development**.
-- 🚀 Exploring new tools and frameworks to expand my tech stack.  
-- 🛠️ Currently enhancing my skills in **React.Js** and **Backend Development**. 
+🌟 Building exciting projects in **full-stack development**.
+🚀 Exploring new tools and frameworks to expand my tech stack.  
+🛠️ Currently enhancing my skills in **React.Js** and **Backend Development**. 
 
 ### Tech Stack:
 
